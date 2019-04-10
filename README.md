@@ -1,2 +1,2 @@
 # MySerialPortsTest
-谷歌串口通讯api移植
+Google Serial Ports api to CMake.
